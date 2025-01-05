@@ -1,0 +1,2 @@
+Packages\nadena.dev.modular-avatar\Editor\MiscPreview\RemoveVertexColorPreview.cs(91,107): warning CS8625: 无法将 null 字面量转换为非 null 的引用类型。
+Packages\nadena.dev.modular-avatar\Editor\MiscPreview\RemoveVertexColorPreview.cs(92,81): warning CS8625: 无法将 null 字面量转换为非 null 的引用类型。

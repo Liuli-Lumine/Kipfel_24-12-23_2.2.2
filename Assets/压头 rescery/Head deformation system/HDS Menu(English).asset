@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: HDS Menu(English)
+  m_EditorClassIdentifier: 
+  controls:
+  - name: HFS ON
+    icon: {fileID: 2800000, guid: 4c19abdc6fd45504e8f7b856a2ba4b28, type: 3}
+    type: 102
+    parameter:
+      name: HFS on
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: HPS ON
+    icon: {fileID: 2800000, guid: 675229c347b0ade46aa58f945e5a1074, type: 3}
+    type: 102
+    parameter:
+      name: HPS on
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Particles off
+    icon: {fileID: 2800000, guid: e96dffcee61e60f4997c1024fffb254a, type: 3}
+    type: 102
+    parameter:
+      name: HDS P off
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Audio off
+    icon: {fileID: 2800000, guid: 20a178bacfe81ab4c8aa1a72e291bebe, type: 3}
+    type: 102
+    parameter:
+      name: HDS Audio off
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

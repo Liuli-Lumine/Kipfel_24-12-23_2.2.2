@@ -1,0 +1,5 @@
+Packages\com.anatawa12.avatar-optimizer\Editor\APIInternal\MeshRemovalProviderImpl.cs(75,29): warning CS8509: The switch expression does not handle all possible values of its input type (it is not exhaustive). For example, the pattern '8' is not covered.
+Packages\com.anatawa12.avatar-optimizer\Editor\Processors\SkinnedMeshes\InternalAutoFreezeNonAnimatedBlendShapesProcessor.cs(51,25): warning CS0162: Unreachable code detected
+Packages\com.anatawa12.avatar-optimizer\Editor\Processors\SkinnedMeshes\InternalAutoFreezeNonAnimatedBlendShapesProcessor.cs(56,25): warning CS0162: Unreachable code detected
+Packages\com.anatawa12.avatar-optimizer\Editor\APIInternal\ShaderInformation.Liltoon.cs(119,13): warning CS0219: The variable 'uvMainScaleOffset' is assigned but its value is never used
+Packages\com.anatawa12.avatar-optimizer\Editor\Processors\TraceAndOptimize\OptimizeTexture.cs(852,22): warning CS0219: The variable 'isBlack' is assigned but its value is never used

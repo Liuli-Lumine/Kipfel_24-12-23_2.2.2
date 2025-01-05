@@ -1,0 +1,5 @@
+Packages\com.anatawa12.avatar-optimizer\Editor\APIInternal\MeshRemovalProviderImpl.cs(75,29): warning CS8509: switch 表达式不处理其输入类型的所有可能的值(它不是穷举)。例如，模式“8”未包含在内。
+Packages\com.anatawa12.avatar-optimizer\Editor\APIInternal\ShaderInformation.Liltoon.cs(119,13): warning CS0219: 变量“uvMainScaleOffset”已被赋值，但从未使用过它的值
+Packages\com.anatawa12.avatar-optimizer\Editor\Processors\SkinnedMeshes\InternalAutoFreezeNonAnimatedBlendShapesProcessor.cs(51,25): warning CS0162: 检测到无法访问的代码
+Packages\com.anatawa12.avatar-optimizer\Editor\Processors\SkinnedMeshes\InternalAutoFreezeNonAnimatedBlendShapesProcessor.cs(56,25): warning CS0162: 检测到无法访问的代码
+Packages\com.anatawa12.avatar-optimizer\Editor\Processors\TraceAndOptimize\OptimizeTexture.cs(852,22): warning CS0219: 变量“isBlack”已被赋值，但从未使用过它的值

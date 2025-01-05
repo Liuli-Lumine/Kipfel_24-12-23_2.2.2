@@ -1,0 +1,8 @@
+
+        //----------------------------------------------------------------------------------------------------------------------
+        // Custom Properties
+        //_CustomVariable ("Custom Variable", Float) = 0
+        _CustomGravitySize ("Gravity", float) = 0.1
+        [lilVec3] _CustomPointA ("Point A", Vector) = (0, 0, 0, 0)
+        [lilVec3] _CustomPointB ("Point B", Vector) = (0, 1, 0, 0)
+        _DPSOrificeChannel ("DPS Orifice Channel", int) = 1

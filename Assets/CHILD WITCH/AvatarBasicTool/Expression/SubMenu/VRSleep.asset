@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VRSleep
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u4EF0\u5367"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: CC2/Locomotion/Pose
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u4FEF\u5367"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: CC2/Locomotion/Pose
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5411\u5DE6\u4FA7\u8EBA"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: CC2/Locomotion/Pose
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5411\u53F3\u4FA7\u8EBA"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: CC2/Locomotion/Pose
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

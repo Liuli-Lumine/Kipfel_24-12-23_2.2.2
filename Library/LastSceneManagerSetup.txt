@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/MOCHIYAMA/Kipfel/Kipfel.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Packages/nadena.dev.ndmf/Runtime/___NDMF Preview___.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 1

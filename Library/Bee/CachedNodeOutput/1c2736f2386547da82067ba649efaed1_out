@@ -1,0 +1,2 @@
+Packages\nadena.dev.modular-avatar\Editor\MiscPreview\RemoveVertexColorPreview.cs(91,107): warning CS8625: Cannot convert null literal to non-nullable reference type.
+Packages\nadena.dev.modular-avatar\Editor\MiscPreview\RemoveVertexColorPreview.cs(92,81): warning CS8625: Cannot convert null literal to non-nullable reference type.

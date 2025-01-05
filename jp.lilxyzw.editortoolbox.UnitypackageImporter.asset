@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cfde2293e444c740906820ed431157c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  importedAssets:
+  - name: None
+    guids: []
+  - name: "Kipfel-39neko\u9884\u5236\u4EF6.unitypackage"
+    guids:
+    - dc250c6035b4a4540a66bc9c8b5e29e5
+    - 77119b064a4c7f249979a035e26f33c8
+    - 68acb7300321bd0439a22e8d7af386b0
+    - 94ce431f0ac1c6b4dab009efb3e812d0
+    - 03c93f09376c83649aabda1af04d40bd
+    - 4ceee37f9e5173d4bb9af19e8cf295af
+    - 5bd0e86219f9b524bb7f19a6625469fd
+    - f484f4a93df1e3342851d6d004d5a308
+    - df09b3e31a40c674197cae50fb8668be
+    - f315f5cdfc9eec14895f4fa434fff400
+    - 10a8d57b6067f1f43aff576ff6d2d979
+    - 91fa5ed17215c6544810d18ffbdddf5c
+    - e44ce2fc28c85794e86c489374bd2d72

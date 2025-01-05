@@ -1,0 +1,1 @@
+Packages\com.anatawa12.avatar-optimizer\Internal\Utils\Utils.TemporaryRenderTexture.cs(32,31): warning CS0618: “GraphicsFormat.ShadowAuto”已过时:“Enum member GraphicsFormat.ShadowAuto has been deprecated. Use GraphicsFormat.None as a color format to indicate depth only rendering and DefaultFormat to get the default shadow buffer format.”

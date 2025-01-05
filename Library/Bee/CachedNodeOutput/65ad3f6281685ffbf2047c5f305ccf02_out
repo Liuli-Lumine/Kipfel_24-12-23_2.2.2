@@ -1,0 +1,3 @@
+Packages\nadena.dev.ndmf\Editor\PreviewSystem\Trace\TraceWindow.cs(48,31): warning CS0219: 变量“currentContainer”已被赋值，但从未使用过它的值
+Packages\nadena.dev.ndmf\Editor\PreviewSystem\Trace\TraceWindow.cs(49,21): warning CS0219: 变量“inCurrentContainer”已被赋值，但从未使用过它的值
+Packages\nadena.dev.ndmf\Editor\PreviewSystem\NDMFPreview.cs(19,39): warning CS8618: 在退出构造函数时，不可为 null 的 字段“_globalPreviewSession”必须包含非 null 值。请考虑将 字段 声明为可以为 null。

@@ -1,0 +1,1 @@
+Packages\nadena.dev.modular-avatar\Runtime\MAMoveIndependently.cs(19,23): warning CS0414: 字段“MAMoveIndependently.EPSILON”已被赋值，但从未使用过它的值

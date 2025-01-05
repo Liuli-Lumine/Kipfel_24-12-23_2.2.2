@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Marker
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u5F3A\u5236\u540C\u6B65"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ABT/Process/AntiCulling
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6253\u5F00\u7B14"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ABT/Pen/Pen_Active
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u9009\u62E9\u7B14"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ABT/Pen/Select_Pen
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u9009\u62E9\u6A61\u76AE\u64E6"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ABT/Pen/Select_Eraser
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6E05\u9664\u9009\u62E9"
+    icon: {fileID: 0}
+    type: 101
+    parameter:
+      name: ABT/Pen/Select_Delete
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u989C\u8272\u8C03\u6574"
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: ABT/Pen/Color_Value
+    labels: []
+  - name: "\u5F00\u542F\u8F68\u8FF9"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ABT/Marker/Trail_Active
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u753B\u8F68\u8FF9"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ABT/Marker/Trail_Draw
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

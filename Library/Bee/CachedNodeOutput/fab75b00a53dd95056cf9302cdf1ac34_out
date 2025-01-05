@@ -1,0 +1,2 @@
+Packages\nadena.dev.ndmf\Editor\PreviewSystem\Trace\TraceWindow.cs(48,31): warning CS0219: The variable 'currentContainer' is assigned but its value is never used
+Packages\nadena.dev.ndmf\Editor\PreviewSystem\Trace\TraceWindow.cs(49,21): warning CS0219: The variable 'inCurrentContainer' is assigned but its value is never used

@@ -1,0 +1,10 @@
+Scale 制約は、ヘッドボーンに配置すると最もスクイーズ効果が高いのですが、VRC で髪と頭全体を隠すことができないため、見えなくなってしまうという問題があります。
+首の骨の圧迫はひどくなりますが、視界を遮ることはなく、VRCは頭を隠すことができます。
+
+
+Scale constraint on the head bone is the best squeeze effect, but there is a problem that VRC can not hide the hair and the whole head, so there is an obscured view.
+The extrusion effect is worse when placed on the neck bone, but it does not block the field of view, and VRC can hide the head.
+
+
+Scale约束放在头部骨骼的挤压效果是最好的，但是存在VRC无法隐藏掉头发和整个头部的问题，所以存在遮挡视野。
+放在脖子骨骼的挤压效果比较差，但是不会遮挡视野，VRC可以隐藏掉头部。
